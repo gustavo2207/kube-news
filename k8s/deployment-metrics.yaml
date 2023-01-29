@@ -1132,8 +1132,8 @@ metadata:
     app.kubernetes.io/managed-by: Helm
 type: Opaque
 data:
-  admin-user: "YWRtaW4="
-  admin-password: "elJSYW15bFVHT2ZrRzNSeW1aaUdNeHljYkNJdWFhMHBQMFdlVFVmNA=="
+  admin-user: ""
+  admin-password: ""
   ldap-toml: ""
 ---
 apiVersion: v1
