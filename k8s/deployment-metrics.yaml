@@ -1131,10 +1131,6 @@ metadata:
     app.kubernetes.io/version: "9.2.0"
     app.kubernetes.io/managed-by: Helm
 type: Opaque
-data:
-  admin-user: ""
-  admin-password: ""
-  ldap-toml: ""
 ---
 apiVersion: v1
 kind: ConfigMap
